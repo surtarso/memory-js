@@ -1,5 +1,3 @@
-# Desafio de Projeto - TGI Bootcamp - DIO
-
 ## Jogo da Memória em HTML, CSS & JavaScript
 <img src='./memoria.png' width='50%' height='50%' />
 
