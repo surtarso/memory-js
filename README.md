@@ -11,7 +11,7 @@
     - QoL: Remoção de dragging das cartas [html]
 
 ### Uso:
-- [ABRA O JOGO AGORA MESMO](https://tarsogalvao.ddns.net/games/memoria/), ou:
+- [ABRA O JOGO AGORA MESMO](https://tarsogalvao.ddns.net/v1/games/memoria/), ou:
 - Clone o repositório ou baixe o .zip
 - Abra o index.html no seu navegador.
 
